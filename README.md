@@ -1,4 +1,4 @@
-cdn
+My CDN
 ===
 
-Personal CDN
+Just a personal CDN for misc stuff.
